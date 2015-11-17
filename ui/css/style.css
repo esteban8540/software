@@ -1,0 +1,8 @@
+#stdin, #stdout { 
+	height: 10em; width: 100%; 
+	background-position: bottom right;
+	background-repeat: no-repeat; border: 1px solid gray;
+}
+
+#stdin  { background-image: url(../pictures/stdin.gif); }
+#stdout { background-image: url(../pictures/stdout.gif); }
